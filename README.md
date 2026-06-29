@@ -1,44 +1,73 @@
-💫 Hi 👋, I'm Sanket Hol
+# 💫 Hi , I'm Sanket Hol
 
 A passionate aspiring Data Analyst and Power BI Developer from India, with a strong interest in Business Intelligence, SQL, and Problem Solving.
 
-🔭 I’m currently working on:
+
+## 🔭 I’m currently working on:
+
 • Data Analytics Portfolio Projects
+
 • Interactive Power BI Dashboards
+
 • SQL Case Studies
 
-🌱 I’m currently learning:
+
+## 🌱 I’m currently learning:
+
 • Advanced SQL
+
 • Power BI & DAX
+
 • Python
+
 • Data Visualization
+
 • Git & GitHub
 
-👯 I’m looking to collaborate on:
+
+## 👯 I’m looking to collaborate on:
+
 • Data Analytics Projects
+
 • Business Intelligence Dashboards
+
 • Open Source Analytics Projects
 
-🤔 I’m looking for help with:
+
+## 🤔 I’m looking for help with:
+
 • Data Engineering Concepts
+
 • Advanced Power BI
+
 • Real-world Analytics Projects
 
-💬 Ask me about:
+
+## 💬 Ask me about:
+
 • SQL
+
 • Power BI
+
 • Excel
+
 • C++
+
 • Data Analytics
+
 • LeetCode
 
-📫 How to reach me:
-📧 mailto:sanketyt13@gmail.com
+
+## 📫 How to reach me:
+
+📧 mailto: sanketyt13@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/sankethol/
 
-⚡ Fun fact:
-I believe every dataset tells a story—I love discovering it through analysis and visualization.
 
+## ⚡ Fun fact:
+
+I believe every dataset tells a story—I love discovering it through analysis and visualization.
 
 
 ## 🌐 Socials:
